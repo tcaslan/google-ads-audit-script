@@ -12,9 +12,7 @@ This Google Ads Script performs a comprehensive, read-only audit of your Google 
 
 The script aims to identify potential issues, areas for improvement, and adherence to best practices, saving you time on manual checks.
 
-<p align="center">
-  <img src="https://i.hizliresim.com/ihnszow.png" alt="Google Ads Audit Script Spreadsheet Output Example" width="75%">
-</p>
+![Google Ads Audit Script Spreadsheet Output Example](images/screenshot.png)
 *(Example Spreadsheet Output)*
 
 ## Features
